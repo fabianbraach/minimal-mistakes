@@ -10,7 +10,7 @@ Below you can read something about my education, experiences and technologies I 
 ### CHECK24 Vergleichsportal
 <small>Junior iOS Developer / July 2017 - today</small>
 
-After studying for almost four years, I joined [CHECK24](https://www.check24.de/) in Hamburg as Junior iOS Developer.
+After studying for almost four years, I joined [CHECK24](https://www.check24.de/) in Hamburg as Junior iOS Developer. In Hamburg we are a team of five app developers, 3 for Android and 2 for iOS, and are responsible for the "Zahnzusatz" und "Krankenkassen" part of the main CHECK24 app. In the last few month we also developed a new version of the "CHECK24 für Profis" app, which was formerly known as askCharlie.
 
 ## Education
 
