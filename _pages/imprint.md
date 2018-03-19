@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Impressum"
-permalink: /impress
+permalink: /imprint
 ---
 ## Angaben gemäß § 5 TMG:
 

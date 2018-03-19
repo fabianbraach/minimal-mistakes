@@ -6,7 +6,7 @@ main:
 legal:
   - title: Legal
     children:
-      - title: "Impress"
-        url: /impress
+      - title: "Imprint"
+        url: /imprint
       - title: "Privacy"
         url: /privacy
