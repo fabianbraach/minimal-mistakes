@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Curriculum Vitae"
-permalink: /curicculum-vitae/
+permalink: /curicculum-vitae
 ---
 Below you can read something about my education, experiences and technologies I love to use.
 
