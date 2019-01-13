@@ -89,7 +89,7 @@ author:
   avatar           : "/assets/images/me.jpg"
   bio              : "iOS Developer @ CHECK24"
   location         : "Hamburg"
-  email            : "fabian.braach@me.com"
+  email            : # "fabian.braach@me.com"
   uri              :
   bitbucket        : # "fabianbraach"
   codepen          :
@@ -106,7 +106,7 @@ author:
   linkedin         : "fabianbraach"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "4904191/fabian"
+  stackoverflow    : "4904191/fabianbraach"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          : "informatiker_"
