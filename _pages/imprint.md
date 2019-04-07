@@ -6,19 +6,19 @@ permalink: /imprint
 ## Angaben gemäß § 5 TMG:
 
 Fabian Braach  
-Theodor-Storm-Str. 84  
-23795 Bad Segeberg
+Rethwiese 18  
+25421 Pinneberg
 
 ## Kontakt:
 
-Telefon: +49 4551 9954371  
+Telefon: +49 4101 8572957  
 E-Mail: braach.fabian@gmail.com
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Fabian Braach  
-Theodor-Strom-Str. 84  
-23795 Bad Segeberg
+Rethwiese 18  
+25421 Pinneberg
 
 ## Haftung für Inhalte
 
