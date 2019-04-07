@@ -6,7 +6,7 @@ permalink: /imprint
 ## Angaben gemäß § 5 TMG:
 
 Fabian Braach  
-Rethwiese 18
+Rethwiese 18  
 25421 Pinneberg
 
 ## Kontakt:
@@ -17,7 +17,7 @@ E-Mail: braach.fabian@gmail.com
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Fabian Braach  
-Rethwiese 18
+Rethwiese 18  
 25421 Pinneberg
 
 ## Haftung für Inhalte
